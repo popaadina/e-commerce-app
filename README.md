@@ -6,4 +6,5 @@ E-commerce project based on the microservices arhitecture built using Spring Boo
 Used technologies: 
 
 Back-end: Spring Boot, JPA / Hibernate, PostgreSQL, Mockito
+
 Front-end: React.js, Bootstrap, CSS
